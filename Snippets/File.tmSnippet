@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;tr&gt;
+  &lt;th&gt;
+    &lt;label for="${1/\s.*//}"&gt;${2:label}&lt;/label&gt;
+  &lt;/th&gt;
+  &lt;td&gt;
+    &lt;input type="file" id="${1/\s.*//}" name="${1/\s.*//}.jpg"  data-max-width="${3:300}" data-max-height="${4:200}" /&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;</string>
+	<key>name</key>
+	<string>File</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>file</string>
+	<key>uuid</key>
+	<string>579E961C-719E-4FFE-A399-CC1183157A06</string>
+</dict>
+</plist>

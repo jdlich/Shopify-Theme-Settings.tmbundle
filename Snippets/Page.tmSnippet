@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;tr&gt;
+  &lt;th&gt;
+    &lt;label for="${1:select}_page"&gt;${2:label}&lt;/label&gt;
+  &lt;/th&gt;
+  &lt;td&gt;
+    &lt;select class="page" id="${1/\s.*//}_page" name="${1/\s.*//}_page"&gt;&lt;/select&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;</string>
+	<key>name</key>
+	<string>Page</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>page</string>
+	<key>uuid</key>
+	<string>348D9C2F-2CDD-4AD0-AC2A-27F96C9DAC2E</string>
+</dict>
+</plist>

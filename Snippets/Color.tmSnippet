@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;tr&gt;
+  &lt;th&gt;
+    &lt;label for="${1:color}_color"&gt;${2:label}&lt;/label&gt;
+  &lt;/th&gt;
+  &lt;td&gt;
+    &lt;input class="color" id="${1/\s.*//}_color" name="${1/\s.*//}_color" value="${3:#000000}" /&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;</string>
+	<key>name</key>
+	<string>Color</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>color</string>
+	<key>uuid</key>
+	<string>EE60EF30-DD4A-4B7A-B5C7-C68B28C3FD53</string>
+</dict>
+</plist>

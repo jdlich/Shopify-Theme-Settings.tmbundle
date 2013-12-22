@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;tr&gt;
+  &lt;th&gt;
+    &lt;label for="${1:select}_snippet"&gt;${2:label}&lt;/label&gt;
+  &lt;/th&gt;
+  &lt;td&gt;
+    &lt;select class="snippet" id="${1/\s.*//}_snippet" name="${1/\s.*//}_snippet"&gt;&lt;/select&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;</string>
+	<key>name</key>
+	<string>Snippet</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>snippet</string>
+	<key>uuid</key>
+	<string>1DD16D75-E839-4CBB-A03F-D00D201BE2D1</string>
+</dict>
+</plist>

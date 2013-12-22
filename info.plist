@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>wnpbo.q.yvpuare@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Jacob Lichner</string>
+	<key>description</key>
+	<string>Support for Shopify's &lt;a href="http://docs.shopify.com/themes/theme-templates/settings"&gt;Theme Settings&lt;/a&gt;.</string>
+	<key>name</key>
+	<string>Shopify Theme Settings</string>
+	<key>uuid</key>
+	<string>8B832C00-BD15-4606-A1CE-1E7AF2B89396</string>
+</dict>
+</plist>
