@@ -1,4 +1,4 @@
-## Shopify Theme Settings.tmbundle
+## Shopify Theme Settings TextMate Bundle
 
 ### Install
 
